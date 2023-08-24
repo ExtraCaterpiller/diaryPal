@@ -59,4 +59,4 @@ License
 This project is licensed under MIT License.
 
 Contribution
-Please let us know how we can improve this project. Issues and pull requests are always welcome.
+Please let me know how I can improve this project. Issues and pull requests are always welcome.
