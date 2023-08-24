@@ -1,4 +1,5 @@
 Description
+
 DiaryPal: Your Personal Digital Journal
 
 DiaryPal is a user-friendly web application that offers a modern and convenient way to keep a digital journal. With DiaryPal, you can capture your thoughts, experiences and memories effortlessly. Seamlessly designed, it provides features like personalized entries, easy filtering by date and an inspiring daily quote to kickstart your writing journey. Dive into self-expression, organize your thoughts and reflect on your journey with DiaryPal.
@@ -6,6 +7,7 @@ DiaryPal is a user-friendly web application that offers a modern and convenient 
 This application is built using MERN Stack and Jodit Editor where user can pick a calendar date and write a journal entry using all the styles of text editor. Also user can search journal entries for particular month and view, edit or delete them.
 
 Features :
+
 User is authenticated by Login/SignUp.
 
 User can enter their Journal entries using Jodit text Editor.
@@ -18,7 +20,8 @@ Users can view navigate through their entries with a user-friendly pagination sy
 
 Users get a fresh dose of motivation with daily inspirational quotes displayed on the app's interface
 
-Installation
+Installation:
+
 Clone the repo to your local machine.
 
 On your local repo, run cd client and npm install to install dependencies for frontend.
